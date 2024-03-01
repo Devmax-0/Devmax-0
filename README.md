@@ -88,8 +88,8 @@
 <div align="center">
 
 <a href="https://github.com/Devmax_/">
-  <img src="https://github-readme-stats.vercel.app/api?username=Devmax_&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Devmax_&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="0xabdulkhalid"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Devmax-0&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Devmax-0&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="0xabdulkhalid"/>
 
 </a>
 </div>
@@ -111,7 +111,7 @@
 
 <li>
 <a href="[https://linkedin.com/in/0xabdulkhalid](https://www.linkedin.com/in/hamza-shahid-26787b281/)" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  0xabdulkhalid-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+<img src="https://img.shields.io/badge/linkedin:  Hamza Shahid-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 </li>
 
@@ -119,7 +119,7 @@
 
 <li>
 <a href="mailto:for.hamza007@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  0xabdulkhalid-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/gmail:  Hamza Shahid-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
 </li>
 	
